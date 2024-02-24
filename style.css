@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap')
+</style>
+
+h1{
+text-shadow: 3px 3px 8px ##26ff00ac;
+color: rgb(100,50,25,);
+letter-spacing: 2px;
+text-transform: uppercase;
+text-decoration-color: orangered;
+     text-align: center;
+    font-size: 20px
+    font-family : "Anta", sans-serif 
+        
+}
+
+ body{
+     background-color: #fff4d5d6;
+ }
+
+h2{
+text-align: center;
+   font-size: 30px 
+   
+}
+y{
+    text-align: center;
+}
+
+    img{
+        display:block;
+        margin: auto;
+        width: auto;
+    }
+    h1{
+        font-size: 30px ;
+    }
+    
+        
+    
+    h2{
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px ;
+        font-size: 17px; 
+        backface-visibility: hidden;
+        text-shadow: 6px 6px 15px #ff0a00df;
+    }
+
+ol{
+    text-align: center;
+    letter-spacing: 2px ;
+    
+}
+
+p{
+backface-visibility: hidden;
+text-transform: uppercase;
+letter-spacing: 2px;
+font-size: 12px ;
+text-align: center;
+    
+    
+}
+
+img {
+    display: block;
+    margin-left: left;
+}
+
+table{
+    margin: auto;
+}
+
+h3{
+text-transform: uppercase;
+letter-spacing: 2px;
+    text-align: center; 
+    text-shadow: 6px 6px 8px #ff001fdf;   
+    text-decoration-color: #ff00c7a6;
+}
+li{
+    text-align: center;
+}

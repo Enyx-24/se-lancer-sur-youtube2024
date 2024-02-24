@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comment se lancer sur youtube</title>
+    <link rel="shortcut icon" href="IMG/YT.jpg">
+    <link rel="stylesheet" href="style.css">
+      
+</head>
+<body>
+    <div> 
+           <img src="IMG/YT-removebg-preview.png"height=100% width="100%" alt=""> 
+    <header>
+    <h2><scan> <u>Sur ce sur site vous allez voir comment    
+     <font color="red">se lancer sur youtube</u></font></scan></h2>
+ 
+ <nav>
+     <p><em><h2>Pour commencer ce site sera divisé en 
+     <font color="red"><u><strong>4 parties</strong></u></font></h2> </em></p>
+     
+     <ol>
+         <li>Bien choisir <font color="purple"><u>son pseudo.</u></font></li>            
+         <li>Bien choisir <font color='purple'><u>sa photo de profil.</u></font> </li>
+         <li>Bien choisir <font color="purple"><u>sa description.</u></font></li>
+         <li>Bien choisir <font color="purple"><u>son centre d'intérêt et ses idées de vidéo.</u></font></li>
+     </ol>
+ </nav>
+</div>
+<h2><t>Mais déjà c est quoi <font color="red"><u>youtube?</t></u> </font></h2>
+<p><strong>YouTube est un site web d'hébergement de vidéos et média social sur lequel
+ les utilisateurs peuvent envoyer,regarder, commenter, évaluer et partager 
+ des vidéos en streaming.<br> Il est créé en février 2005 par Steve Chen, Chad Hurley et Jawed Karim, trois anciens employés de PayPal.</strong></p>
+<div>
+<texte><h2>On vas aborder le premier point de ce site qui est comment <font color="red"><u>bien choisir son pseudo</u></font></h2></texte>
+
+<ol>
+    <p><li>Il doit comporter <font color="red"><u>entre 3 et 30 caractères.</u></li></font>
+    
+<li>Il doit se composer de <font color="red"><u>caractères alphanumériques (A–Z, a–z, 1–9)</u></font>.</li>
+<li>Il ne doit pas correspondre <font color="red"><u>à une URL ni à un numéro de téléphone.</u></font></li>
+<li>Il ne doit pas être <font color="red"><u>déjà pris.</u></font></li>
+<li>Il doit respecter le <font color="red"><u>Règlement de la communauté YouTube.</u></font></li> </p>
+
+</ol>
+
+</div>
+
+<div>
+    <h2>Maintenant le deuxième point qui est <font color="red"><u>bien choisir sa photo de profil</u></font></h2>
+      <p>
+          <ol>
+          <li>Utilisez une photo carrée <font color="red"><u>de 800 x 800px.</u></font></li>
+       <li>Les photos de profil YouTube peuvent être au <font color="red"><u>format JPG, GIF, BMP ou PNG,</u></font></li>
+       <li>leur taille ne doit pas <font color="red"><u>dépasser 4 Mo. </u></font></li>
+       </p>
+     </ol>
+</div>
+
+<div>
+    <h2>Maintenant le troisième point qui est <font color="red"><u>de bien choisir sa description </u></font></h2>
+
+<ol>
+<li>La description ne doit pas <font color="red"><u>dépasser 5 000 caractères.</u></font></li>
+<li>Pour démarquer vos vidéos de contenus similaires et les rendre <font color="red"><u>plus faciles à trouver 
+via la veillez à ce que chacune d'elles possède une description unique. </u></font></li> 
+ </p>
+</ol>
+</div>
+ 
+ <div>
+     <h2>Maintenant le dernier point qui est <font color="red"><u>de bien choisir son centre 
+     d'intérêt et ses idées de vidéos</u></font></h2>
+ </div>
+ <ol>
+     <li>Réfléchissez à ce que vous <font color="red"><u>trouvez intéressant.</u></font></li></li>
+<li>Notez les <font color="red"><u>valeurs importantes à vos yeux. </u></font></li>
+<li>Prenez en compte <font color="red"><u>vos talents. </u></font></li>
+<li>Associez vos <font color="red"><u>centres d'intérêt.</u></font></li>
+<li>Affinez vos <font color="red"><u>centres d'intérêt.</u></font></li>
+<li>Ravivez une <font color="red"><u>flamme d'enfance. </u></font></li>
+<li>Faites ce que vous <font color="red"><u>rêvez de faire.</u></font></li>
+ 
+ </ol>
+ </div>
+ <h3><u><font color="#ff40d2">Voilà tous les points de ce site ont été abordés merci d'avoir lu et à 
+ bientôt pour de nouveaux sites pour de nouveaux thèmes.</font></u></h3>
+<div>
+    <table
+    border="0"
+    cellpadding="0"
+    cellspacing="0"
+    style="texte-align: center">
+    <thead>
+        <tr>
+            <th><img src="IMG/pouce-bleu-clipart-removebg-preview.png"height=130 alt=""></th>
+             <th><img src="IMG/bye-removebg-preview.png"height=130 alt=""></th>
+        </tr>
+    </thead>
+    
+</table>
+</div>
+
+<h3><a href="https:youtube.com">Lien youtube         </a></h3>
+<h3><a href="https://youtube.com/@enyx174?si=7ZzNuZF9966WFgAz ">Lien de ma chaîne youtube Abonnez vous</a></h3>
+</header>
+</body>
+</html>
